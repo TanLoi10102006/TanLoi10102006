@@ -1,5 +1,6 @@
 # HELLO WORLD 👏 I'M TAN LOI FROM VIETNAM
 
+
 - 🔭 I am currently a student majoring in **Information Technology / Computer Science**.
 - 💻 Career orientation: **Python Developer / AI & Computer Vision Engineer**.
 - 🔬 Active projects: **YOLO Object Detection**, **Tkinter GUI Applications**, and **Java Swing Projects**.
@@ -45,6 +46,7 @@
 
 ## ⚡ Hobbies & Interests
 
+
 - 🎵 Listening to music and relaxing after coding sessions.
 - 📖 Reading technical documentation and staying up to date with new tech stacks.
 - 🔍 Researching Machine Learning, Deep Learning & Computer Vision models.
@@ -55,4 +57,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TanLoi10102006&show_icons=true&theme=tokyonight" alt="TanLoi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanLoi10102006&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
