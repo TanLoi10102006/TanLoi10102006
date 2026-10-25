@@ -47,7 +47,7 @@
 
 - 🎵 Listening to music and relaxing after coding sessions.
 - 📖 Reading technical documentation and staying up to date with new tech stacks.
-- 🔍 Researching Machine Learning & Computer Vision models.
+- 🔍 Researching Machine Learning, Deep Learning & Computer Vision models.
 
 ---
 
