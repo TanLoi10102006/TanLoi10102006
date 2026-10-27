@@ -53,11 +53,6 @@
 - 🔍 Researching Machine Learning, Deep Learning & Computer Vision models.
 
 ---
-
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
 ## 📈 GitHub Stats
 
 <p align="left">
