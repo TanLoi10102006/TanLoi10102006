@@ -58,7 +58,9 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TanLoi10102006&show_icons=true&theme=tokyonight&count_private=true" alt="TanLoi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanLoi10102006&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanLoi10102006&layout=compact&theme=tokyonight&hide=hack&langs_count=8" alt="Top Langs" />
 </p>
